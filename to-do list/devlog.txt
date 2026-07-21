@@ -1,0 +1,31 @@
+2.7.2026
+
+started the project
+HTML + CSS fully completed.
+struggling on JS
+
+5.7.2026
+
+decided to delete my own project and start over with AI assistance
+added todos array
+added the rendering function
+added the adding function
+added localStorage
+
+6.7.2026
+
+added checkComp function that makes todo checkbox work
+added remove function 
+added edit function (not working, not saving info)
+
+
+7.7.2026
+
+fixed edit function (working)
+added search system (working, non-case sensitive)
+
+ideas:
+
+1. Add "remove completed button"
+2. Add "complete all button"
+3. 
